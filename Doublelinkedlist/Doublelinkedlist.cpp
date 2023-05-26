@@ -35,7 +35,9 @@ void DoubleLinkedlist::addNode() {
 
 	Node* newNode = new Node(); //step 1
 	newNode->noMhs = nim; //step 2
-	
+	newNode->name = nm; //step 2
+
+
 
 
 
